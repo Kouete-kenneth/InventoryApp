@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-package.json
+Products-inventory/backend/package.json
 /SRS_and_others
 
 # testing
